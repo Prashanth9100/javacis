@@ -13,7 +13,7 @@ public class Student {
 
 
         Student myObj = new Student();
-        myObj.setName("PrashanthP");
+        myObj.setName("PrashanthPv");
         System.out.println(myObj.getName());
     }
 }
