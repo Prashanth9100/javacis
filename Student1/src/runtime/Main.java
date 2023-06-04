@@ -1,6 +1,7 @@
 package runtime;
 
-public class Main extends Poly{
+
+public class Main extends Poly {
     void run()
     {
         System.out.println("Hello");
@@ -8,7 +9,11 @@ public class Main extends Poly{
 
     public static void main(String[] args)
     {
-        Main obj = new Main();
+        Poly obj = new Main();
+        Poly a;
+        a = new Poly();
         obj.run();
+        a.run();
+
     }
 }
