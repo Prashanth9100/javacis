@@ -22,7 +22,7 @@ public class Third {
             System.out.print(arr[i] + " ");
 
         }
-        System.out.println("Enter the element from where you want to rotate");
+        System.out.println("\nEnter the element from where you want to rotate");
         int x = scanner.nextInt();
 
 
