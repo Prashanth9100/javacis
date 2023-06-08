@@ -1,3 +1,5 @@
+package day2;
+
 public class Student {
     private String name, newName;
     public String getName() {
