@@ -1,4 +1,4 @@
-package Arrays.array;
+package array;
 
 public class Second {
 

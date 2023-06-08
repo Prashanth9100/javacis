@@ -1,4 +1,4 @@
-package Arrays.array;
+package array;
 import java.util.Scanner;
 public class Third {
 
